@@ -1,0 +1,16 @@
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\TestTask.exe.config
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\TestTask.exe
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\TestTask.pdb
+D:\Программирование\Проекты\TestTask\TestTask\obj\Debug\TestTask.csprojAssemblyReference.cache
+D:\Программирование\Проекты\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\TestTask\TestTask\obj\Debug\TestTask.exe
+D:\Программирование\Проекты\TestTask\TestTask\obj\Debug\TestTask.pdb
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\AngleSharp.dll
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\System.Buffers.dll
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\AngleSharp.xml
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\System.Buffers.xml
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Программирование\Проекты\TestTask\TestTask\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Программирование\Проекты\TestTask\TestTask\obj\Debug\TestTask.csproj.CopyComplete
